@@ -11,6 +11,6 @@ npm run build
 
 Default administrator account:
 
-Email: admin@example.com
+Email: sysadmin@example.com
 
-Password: Admin@123
+Password: System@123
